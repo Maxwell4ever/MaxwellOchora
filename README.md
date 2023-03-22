@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **building up my skill set with data science projects.**
 
-- 🌱 I’m currently learning **the basics of Exploratory data analysis, Regression Classification, Cluster Analysisand advanced data analystics such as deep learning.**
+- 🌱 I’m currently learning **the basics of Exploratory Data Analysis, Regression Classification, Cluster Analysis and advanced data analytics such as Deep Learning.**
 
 - 👯 I’m looking to collaborate on **any of the presented data analytics projects or open to other projects.**
 
 - 🤝 I’m looking for help with **front end applications, ideally displaying the data analytics projects on a website.**
 
-- 💬 Ask me about **Research methods,sampling, data collection, research project design and management. I wuld be glad to help out.**
+- 💬 Ask me about **Research methods, sampling frames, data collection, Research project design and management. I wuld be glad to help out.**
 
 - 📫 How to reach me **Email me or reach out on LinkedIn**
 
