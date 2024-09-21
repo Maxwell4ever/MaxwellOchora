@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxwell Ochora</h1>
+<h1 align="center">Hi 👋, I'm Maxwell Joseph Ochora</h1>
 <h3 align="center">A passionate Data Analyst and Research Professional from Uganda</h3>
 
 - 🔭 I’m currently working on **building up my skill set with data science projects.**
